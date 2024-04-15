@@ -9,7 +9,7 @@ Dear user, if you use this code to generate heart rate results, you do not need 
 but please remember to cite the paper that proposed the ECG-Fitness dataset and the paper that proposed the CleanerPPG dataset.
 By the way, if you find that the definition of heart rate estimation in this code is unreasonable, you can open an issue discussion. (from google translate)
 
-## If this is helpful, give a star.
+#### If this is helpful, give a star.
 
 # Reference
 

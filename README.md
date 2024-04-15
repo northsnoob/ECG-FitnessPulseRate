@@ -8,6 +8,9 @@ CleanerPPG[1]對多項 rPPG 研究相關的資料集找尋專業人士共同標�
 Dear user, if you use this code to generate heart rate results, you do not need to mark them as coming from me,
 but please remember to cite the paper that proposed the ECG-Fitness dataset and the paper that proposed the CleanerPPG dataset.
 By the way, if you find that the definition of heart rate estimation in this code is unreasonable, you can open an issue discussion. (from google translate)
+
+## If this if helpful, give a star.
+
 # Reference
 
 [1] https://www.mdpi.com/2076-3417/10/23/8630  
